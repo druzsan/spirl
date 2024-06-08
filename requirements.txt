@@ -21,6 +21,9 @@ cython<3
 wandb
 mpi4py
 # mujoco_py==2.0.2.9
+# adjusted
+mujoco-py==2.1.2.14
 
 # dev
 ipython
+mypy
