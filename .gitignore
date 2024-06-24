@@ -2,9 +2,11 @@
 __pycache__
 *.egg-info
 
+.tool-versions
 .env
 .direnv/
 .mypy_cache/
+dev/
 
 data/
 experiments/
