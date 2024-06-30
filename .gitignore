@@ -5,6 +5,7 @@ __pycache__
 .tool-versions
 .env
 .direnv/
+.vscode/
 .mypy_cache/
 dev/
 
